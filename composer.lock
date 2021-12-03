@@ -4,21 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6bbfaee888e079cbf89169702f0d0201",
+    "content-hash": "a4b6a3032b1f00ed1fbbd17bd8349a76",
     "packages": [
         {
             "name": "mrkrstphr/instantiator",
             "version": "1.0.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/mrkrstphr/instantiator.git",
+                "url": "https://github.com/carsdotcom/instantiator.git",
                 "reference": "fae563d27344c66ee17cc8a29f775ec185c29231"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/mrkrstphr/instantiator/zipball/fae563d27344c66ee17cc8a29f775ec185c29231",
-                "reference": "fae563d27344c66ee17cc8a29f775ec185c29231",
-                "shasum": ""
             },
             "require": {
                 "php": ">=5.5,<=8.0"
@@ -34,7 +28,6 @@
                     "mrkrstphr\\Instantiator\\": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
